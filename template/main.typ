@@ -13,7 +13,7 @@
 // BAMDONE!
 //***************************************************************
 
-#import "@preview/bamdone-aiaa:0.1.2": *
+#import "@preview/bamdone-aiaa:0.2.0": *
 #import "@preview/droplet:0.3.1": dropcap
 
 #show: aiaa.with(
